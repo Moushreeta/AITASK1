@@ -62,7 +62,7 @@ Follow the prompts or instructions within the script or notebook to interact wit
 ## Project Structure
 
 
-data/: Contains sample CSV file with synthetic user interaction data.
+data: Contains sample CSV file with synthetic user interaction data.
 
 AI_Task.py: Python script implementing the personalized feed algorithm.
 
