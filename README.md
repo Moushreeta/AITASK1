@@ -6,14 +6,14 @@
 This repository contains the implementation of a personalized feed algorithm that predicts relevant posts for users based on their interactions with content. The algorithm leverages machine learning techniques to rank posts according to their relevance and recency scores.
 
 
-Setup Instructions
+## Setup Instructions
 
-Prerequisites
+## Prerequisites
 
 Make sure you have Python installed on your system. You can download Python from python.org.
 
 
-Installation
+## Installation
 
 Clone the repository to your local machine:
 
@@ -63,9 +63,15 @@ Follow the prompts or instructions within the script or notebook to interact wit
 
 
 data/: Contains sample CSV file with synthetic user interaction data.
+
 AI_Task.py: Python script implementing the personalized feed algorithm.
+
 Requirements1.txt: File listing Python libraries required for the project.
+
 README.md: This file, providing an overview of the project, setup instructions, and usage guidelines.
-Usage
+
+## Usage
+
 Modify AI_Task.py to integrate with your own dataset or modify algorithm parameters.
+
 Customize feature engineering or machine learning models as per your specific requirements.
