@@ -62,6 +62,8 @@ AI_Task.py: Python script implementing the personalized feed algorithm.
 
 Requirements1.txt: File listing Python libraries required for the project.
 
+Sample task for AI.pdf: Detailed description of the project
+
 README.md: This file, providing an overview of the project, setup instructions, and usage guidelines.
 
 ## Usage
