@@ -17,46 +17,41 @@ Make sure you have Python installed on your system. You can download Python from
 
 Clone the repository to your local machine:
 
-bash
-Copy code
+
 
 git clone https://github.com/Moushreeta/AITASK1.git
+
 Navigate into the project directory:
 
-
-bash
-Copy code
-cd personalized-feed
 Create a virtual environment (optional but recommended):
 
-bash
-Copy code
+
 python -m venv venv
+
 Activate the virtual environment (skip this step if not using a virtual environment):
 
 On Windows:
 
-bash
-Copy code
+
 venv\Scripts\activate
+
 On macOS and Linux:
 
-bash
-Copy code
+
 source venv/bin/activate
+
 Install the required Python libraries:
 
-bash
-Copy code
+
 pip install -r Requirements1.txt
+
 Running the Code
 Ensure you are in the project directory with the virtual environment activated.
 
 Run the Jupyter Notebook or Python script containing the algorithm implementation:
 
-bash
-Copy code
 python AI_Task.py
+
 Follow the prompts or instructions within the script or notebook to interact with the algorithm and generate personalized feeds.
 
 ## Project Structure
