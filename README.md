@@ -1,18 +1,28 @@
-Personalized Feed Algorithm Project
-Overview
+## Personalized Feed Algorithm Project
+
+
+## Overview
+
 This repository contains the implementation of a personalized feed algorithm that predicts relevant posts for users based on their interactions with content. The algorithm leverages machine learning techniques to rank posts according to their relevance and recency scores.
 
+
 Setup Instructions
+
 Prerequisites
+
 Make sure you have Python installed on your system. You can download Python from python.org.
 
+
 Installation
+
 Clone the repository to your local machine:
 
 bash
 Copy code
+
 git clone https://github.com/Moushreeta/AITASK1.git
 Navigate into the project directory:
+
 
 bash
 Copy code
@@ -49,7 +59,9 @@ Copy code
 python AI_Task.py
 Follow the prompts or instructions within the script or notebook to interact with the algorithm and generate personalized feeds.
 
-Project Structure
+## Project Structure
+
+
 data/: Contains sample CSV file with synthetic user interaction data.
 AI_Task.py: Python script implementing the personalized feed algorithm.
 Requirements1.txt: File listing Python libraries required for the project.
